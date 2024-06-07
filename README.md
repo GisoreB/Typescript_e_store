@@ -1,30 +1,22 @@
 # React + TypeScript + Vite
+Shopping cart app powered with React + TypeScript consuming fake store APIs.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features :
+*Dynamic routing for each item*
+*Call to the fakestore api*
+*Adding more than one article to the purchase*
+*The purchase form*
 
-Currently, two official plugins are available:
+## Tech Stack :
+*React.js with TypeScript - UI*
+*Node (npm) for package management*
+*Sass for styles*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshots
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![Screenshot 2024-06-07 122222](https://github.com/GisoreB/Typescript_e_store/assets/144854877/c0e34ac0-b196-4240-bbdd-baf7506ae219)
+![Screenshot 2024-06-06 161921](https://github.com/GisoreB/Typescript_e_store/assets/144854877/8799c318-e758-471e-837a-b2dd79d02d77)
+![Screenshot 2024-06-07 122404](https://github.com/GisoreB/Typescript_e_store/assets/144854877/b90de827-c080-44e8-a694-c381d6d7c03b)
+![Screenshot 2024-06-07 122325](https://github.com/GisoreB/Typescript_e_store/assets/144854877/327f0636-67db-4a97-8088-db984bf5afb3)
+![Screenshot 2024-06-07 122240](https://github.com/GisoreB/Typescript_e_store/assets/144854877/f6e5fe1d-da55-4c63-97ae-bc4bfbccaaff)
