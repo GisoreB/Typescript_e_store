@@ -5,7 +5,7 @@ Shopping cart app powered with React + TypeScript consuming fake store APIs.
 * **Dynamic routing for each item.** 
 * **Call to the fakestore api.** 
 * **Adding more than one article to the purchase.** 
-* **The purchase form.** *
+* **The purchase form.** 
 
 ## Tech Stack :
 * **React.js with TypeScript - UI.**
